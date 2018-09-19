@@ -8,7 +8,7 @@ Per il progetto di quest'anno, servirà collegare una tastiera al proprio smartp
   <img src="https://github.com/wbigger/2018-19-2Binf/blob/master/20180919_175643.jpg" alt="smartphone-keyboard">
 </p>
 
-## Attenzione!!
+### Attenzione!!
 **Non** effutate gli acquisti ora. Prima controllate se avete già qualcosa a disposizione a casa. Se non avete nulla, facciamo prima delle prove in classe con il materiale che vi fornirò. Se funziona, potete passare all'acquisto.
 
 Nota: l'acquisto del materiale non è obbligatorio.

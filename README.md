@@ -11,7 +11,7 @@ Per il progetto di quest'anno, servirà collegare una tastiera al proprio smartp
 ### Attenzione!!
 **Non** effutate gli acquisti ora. Prima controllate se avete già qualcosa a disposizione a casa. Se non avete nulla, facciamo prima delle prove in classe con il materiale che vi fornirò. Se funziona, potete passare all'acquisto.
 
-Nota: l'acquisto del materiale non è obbligatorio.
+Nota: l'acquisto del materiale è consigliato ma non obbligatorio.
 
 
 ### Adattatore USB
